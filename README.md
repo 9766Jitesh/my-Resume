@@ -24,50 +24,50 @@ Part 2: [Add basic profile details and contact information](https://d3dyfaf3iutr
 
 
 1. ##### Profile Image
-(a) Set padding of 1 rem on all sides in class left-content
-(b) profile-image should be centered using display block property and margin as auto. (do not give any value in px for margin, otherwise test case will not pass)
-(c) It should have a border of 5px white solid and a border-radius of 30 percent.
-(d) Give it a width of 60 percent.
+- Set padding of 1 rem on all sides in class left-content
+-  profile-image should be centered using display block property and margin as auto. (do not give any value in px for margin, otherwise test case will not pass)
+- It should have a border of 5px white solid and a border-radius of 30 percent.
+- Give it a width of 60 percent.
 
 2.  ##### Name
-The name should have the following CSS properties
-(a) It should have a font size and weight of 1.2 rem and 700.
-(b) its text should be center-aligned and uppercase with a space of 0.02px between the letters and padding of 0.8rem in all directions.
+- The name should have the following CSS properties
+  - It should have a font size and weight of 1.2 rem and 700.
+  - its text should be center-aligned and uppercase with a space of 0.02px between the letters and padding of 0.8rem in all directions.
 
 3.  ##### Designation
-(a)It should have a font size of 1 rem
-(b) its text should be center-aligned and uppercase (using CSS)
-(c) It should have a padding of 0.5rem at the bottom only
+- It should have a font size of 1 rem
+- its text should be center-aligned and uppercase (using CSS)
+- It should have a padding of 0.5rem at the bottom only
 
 4.  ##### Description
-(a) It should have a font size of 0.75 rem
-(b) its text should be center-aligned
-(c) It should have a padding of 1 rem on all the sides.
-------------
+- It should have a font size of 0.75 rem
+- Its text should be center-aligned
+- It should have a padding of 1 rem on all the sides.
 
+------------
 Part 3:[ Add Social media links, Skills title, Skill names and progress bars](https://d3dyfaf3iutrxo.cloudfront.net/general/upload/2c215013b6b24a5a8063417325f5dffa.mp4).
 
 - The element with the class 'contact-item' which you added in part 3 should have your social media links and also have 'SKILLS' title along with the name of skills and a progress bar defining your proficiency in that skill, similar to as shown in the picture/ gif.
 
 1. ##### Social Media Icons
-(a) The social media icons should have class name 'icon' and when the icons are clicked it should redirect to your social media profile of Linkedin and Github.
-(b) Optional - Also, add icons for contact number and location.
+  - The social media icons should have class name 'icon' and when the icons are clicked it should redirect to your social media profile of Linkedin and Github.
+  - Optional - Also, add icons for contact number and location.
 
 2.  ##### Skills Title
-The Skills title should have class name 'skills' and should have the following CSS properties
-(a) It should have a font size of 0.75 rem
-(b) its text should be center-aligned and uppercase
-(c) It should have a padding of 1rem on top and bottom and 0.5rem on left and right.
+- The Skills title should have class name 'skills' and should have the following CSS properties
+  - It should have a font size of 0.75 rem
+  - Its text should be center-aligned and uppercase
+  - It should have a padding of 1rem on top and bottom and 0.5rem on left and right.
 
 3.  ##### Skill Name
-The Skills Name should have class name 'skill-name' and should have the following CSS properties
-(a) It should have a font size and weight of 0.65 rem
-(b) its text should be left-aligned.
-(c) It should have a padding of 0.5 rem at bottom
+- The Skills Name should have class name 'skill-name' and should have the following CSS properties
+  -It should have a font size and weight of 0.65 rem
+  -Its text should be left-aligned.
+  -It should have a padding of 0.5 rem at bottom
 
 4.  ##### Progress Bar
-The Progress Bar should have the class name 'progress-bar' and should have the following CSS properties:
-(a) Give it a border of '1px white solid' and a height of '4px'
+-The Progress Bar should have the class name 'progress-bar' and should have the following CSS properties:
+-Give it a border of '1px white solid' and a height of '4px'
 
 ------------
 
@@ -80,9 +80,9 @@ The right section of the resume should have the following CSS properties.
 -  It should have a padding of 2rem (32px) on top and bottom and a padding of 3rem (48px) on left and right.
 
 2. ##### Right Title - ABOUT ME, Education, Experience
-(a) All the titles like About me, Education, Experience should have a heading with class 'right-title'.
-(b) It should be in uppercase (using CSS)
-(c) It should have a font size of 1.2rem and font-weight of 700, padding of 0.5 rem and letter-spacing of 1px
+  - All the titles like About me, Education, Experience should have a heading with class 'right-title'.
+    -It should be in uppercase (using CSS)
+    -It should have a font size of 1.2rem and font-weight of 700, padding of 0.5 rem and letter-spacing of 1px
 
 ------------
 Part 5: [Make the Resume Responsive using Media queries](https://d3dyfaf3iutrxo.cloudfront.net/general/upload/2d1b7902819148d79e1200aa5497d44f.mp4)
