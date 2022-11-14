@@ -124,7 +124,7 @@ div li a.fa.fa-instagram{
     background:white;
     color: #a84032;
     background: linear-gradient(white 0 0);
-    background-size: 100% .08em; /* .08em is our fixed height; modify as needed. */
+    background-size: 100% 5rem; /* .08em is our fixed height; modify as needed. */
   background-repeat: no-repeat;
   transition: background-size .4s, background-position .4s .4s;
 }
